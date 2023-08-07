@@ -1,8 +1,3 @@
-<a href="https://demo.useliftoff.com">
-  <img alt="Liftoff – AI-Powered Mock Interviews" src="https://demo.useliftoff.com/opengraph-image">
-  <h1 align="center">Job Interviews</h1>
-</a>
-
 <p align="center">
   Mock Interview Simulator with AI-Powered Feedback
 </p>
@@ -20,7 +15,6 @@
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
   <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
-  <a href="#author"><strong>Author</strong></a>
 </p>
 <br/>
 
@@ -41,8 +35,6 @@ npx create-next-app liftoff --example "https://github.com/while-basic/liftoff"
 ```
 
 ## Tech Stack + Features
-
-![Landing Page](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_12.43.54_svKkqF7dA.png?updatedAt=1685551454273)
 
 ![Interview Selection](https://ik.imagekit.io/9km72asqu/CleanShot_2023-05-31_at_13.35.55_xohCRNMlJ.png?updatedAt=1685554576155)
 
